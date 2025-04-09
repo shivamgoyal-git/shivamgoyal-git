@@ -1,6 +1,6 @@
 # 💫 About Me:
 🚀 I'm currently working on improving my web development skills and building projects.  <br>🤝 I'm looking to collaborate on open-source web development projects.  <br>💡 I'm looking for help with mastering backend development, especially MongoDB.  <br>📚 I'm currently learning MongoDB as part of my web development course.  <br>💬 Ask me about HTML, CSS, JavaScript, Tailwind CSS, and frontend development.<br>🤓 Fun fact: I once spent hours debugging my code… turns out I just missed a semicolon! 😅
-
+ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shivushivam_?igsh=MThuM2Z3dmduaDdieg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivam-goyal-095635294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Shivushivam_?t=rwpc5ofABNfAO_-FQm6yRg&s=09) 

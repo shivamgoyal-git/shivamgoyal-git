@@ -220,10 +220,20 @@ Design visual assets and drive brand promotion for a college-level coding commun
 
 ---
 
-### 🐍 Contribution
+### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/shivamgoyal-git/shivamgoyal-git/output/github-contribution-grid-snake-dark.svg"/>
+  
+  <p align="center">
+    <i>"Oh no... the snake is eating all my contributions! 🏃‍♂️💨"</i>
+  </p>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivamgoyal-git/shivamgoyal-git/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivamgoyal-git/shivamgoyal-git/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shivamgoyal-git/shivamgoyal-git/output/github-contribution-grid-snake.svg">
+  </picture>
+
 </div>
 
 ---

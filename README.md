@@ -1,25 +1,143 @@
-# 💫 About Me:
-🚀 I'm currently working on improving my web development skills and building projects.  <br>🤝 I'm looking to collaborate on open-source web development projects.  <br>💡 I'm looking for help with mastering backend development, especially MongoDB.  <br>📚 I'm currently learning MongoDB as part of my web development course.  <br>💬 Ask me about HTML, CSS, JavaScript, Tailwind CSS, and frontend development.<br>🤓 Fun fact: I once spent hours debugging my code… turns out I just missed a semicolon! 😅
- 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shivushivam_?igsh=MThuM2Z3dmduaDdieg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivam-goyal-095635294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Shivushivam_?t=rwpc5ofABNfAO_-FQm6yRg&s=09) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:6d28d9&height=220&section=header&text=SHIVAM%20GOYAL&fontSize=48&fontColor=e9d5ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20AI%20Integrations&descAlignY=55&descSize=18" width="100%"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+MongoDB;AI+%26+API+Integration+Enthusiast;Building+Production-Grade+Web+Apps" alt="Typing SVG" />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shivamgoyal-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shivamgoyal-git&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgoyal-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shivamgoyal-git&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6d28d9?style=flat-square&labelColor=1e1b4b"/>
+<img src="https://img.shields.io/badge/Location-Noida%2C%20India-7c3aed?style=flat-square&labelColor=1e1b4b"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/shivamgoyal0308/"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shivamgoyal0308@gmail.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/shivamgoyal-git"><img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=shivamgoyal-git&style=flat-square&color=6d28d9&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/shivamgoyal-git?style=flat-square&color=4c1d95&labelColor=1e1b4b"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shivamgoyal-git&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧠 About Me
+
+I'm a Full Stack Web Developer who builds and deploys production-ready web applications end to end — from designing REST APIs to shipping polished, responsive frontends. I focus heavily on **AI-integrated products**, having built and deployed SaaS tools powered by OpenAI and Google Gemini. I care about clean architecture, proper state management, and UI that doesn't feel like an afterthought.
+
+```yaml
+Open To:
+  - Full Stack Developer Roles
+  - AI-Integrated Product Engineering
+  - Open Source Collaboration
+```
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,html,css,cpp,py" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify,figma" />
+
+---
+
+### 🚀 Featured Projects
+
+<details>
+<summary><b>Persio.ai — AI Customer Persona Generator SaaS</b></summary>
+<br/>
+
+A full-stack AI SaaS platform that generates customer personas, competitor analysis, business plans, MVP roadmaps, and customer concern reports from basic brand input — powered by OpenAI.
+
+| Category | Details |
+|---|---|
+| **Stack** | React.js, Vite, Tailwind CSS, Node.js, Express.js, OpenAI API, Zustand, TanStack React Query |
+| **Scale** | Multi-page frontend with routed views, 5-endpoint REST backend |
+| **Performance** | Async data fetching + caching via TanStack React Query |
+| **Repository** | [github.com/shivamgoyal-git/Persio-ai](https://github.com/shivamgoyal-git/Persio-ai) |
+
+</details>
+
+<details>
+<summary><b>Chatmon — AI Chatbot Application (Gemini 2.5 Flash)</b></summary>
+<br/>
+
+A feature-rich AI chatbot with full user authentication, persistent multi-session chat history, and a custom markdown rendering engine.
+
+| Category | Details |
+|---|---|
+| **Stack** | HTML5, CSS3, JavaScript (ES6+), Google Gemini 2.5 Flash API, Highlight.js, LocalStorage |
+| **Scale** | Multi-session, per-user chat history with replay support |
+| **Performance** | Async/await API calls, non-blocking UI interactions |
+| **Repository** | [github.com/shivamgoyal-git/CHATMON](https://github.com/shivamgoyal-git/CHATMON) |
+
+</details>
+
+<details>
+<summary><b>Expense Tracker</b></summary>
+<br/>
+
+A dynamic expense tracking web app with real-time computation and persistent local data storage.
+
+| Category | Details |
+|---|---|
+| **Stack** | JavaScript (ES6+), HTML5, CSS3, LocalStorage API |
+| **Scale** | Single-page app, client-side state via LocalStorage |
+| **Repository** | [github.com/shivamgoyal-git](https://github.com/shivamgoyal-git) |
+
+</details>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shivamgoyal-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamgoyal-git&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgoyal-git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="48%"/>
+
+</div>
+
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamgoyal-git&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=e9d5ff"/>
+</div>
+
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+<a href="mailto:shivamgoyal0308@gmail.com"><img src="https://img.shields.io/badge/Gmail-6d28d9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shivamgoyal0308/"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/shivamgoyal-git"><img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4c1d95,100:1e1b4b&height=120&section=footer" width="100%"/>
+</div>
